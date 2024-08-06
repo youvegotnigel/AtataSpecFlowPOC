@@ -1,7 +1,12 @@
-# [Atata Samples](https://github.com/atata-framework/atata-samples) / Using SpecFlow
+# atata-spec-flow-poc
 
-[![Download sources](https://img.shields.io/badge/Download-sources-brightgreen.svg)](https://github.com/atata-framework/atata-samples/raw/main/_archives/SpecFlow.zip)
+Demonstrates how to use Atata with SpecFlow
 
-Demonstrates how to use Atata with SpecFlow 3.
+### Nigel Mulholland
 
-*[Download sources](https://github.com/atata-framework/atata-samples/raw/main/_archives/SpecFlow.zip), run tests, check results and experiment with [Atata Framework](https://atata.io).*
+#### Author
+* LinkedIn: https://www.linkedin.com/in/nigel-mulholland/
+* Medium: https://medium.com/@youvegotnigel
+* GitHub: https://github.com/youvegotnigel
+* Twitter: https://twitter.com/youvegotnigel
+
