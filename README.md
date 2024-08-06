@@ -1,6 +1,6 @@
 # atata-spec-flow-poc
 
-Demonstrates how to use Atata with SpecFlow
+Demonstrates how to use Atata Framework with SpecFlow
 
 ### Nigel Mulholland
 
