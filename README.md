@@ -2,6 +2,12 @@
 
 Demonstrates how to use Atata Framework with SpecFlow
 
+
+* [Atata GitHub](https://github.com/atata-framework/atata)
+* [Atata Docs](https://atata.io/getting-started/)
+* [HTML Validations](https://github.com/atata-framework/atata-htmlvalidation)
+* [Atata Configuration](https://github.com/atata-framework/atata-configuration-json)
+
 ### Nigel Mulholland
 
 #### Author
